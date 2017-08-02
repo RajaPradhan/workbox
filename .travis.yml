@@ -21,3 +21,4 @@ before_script:
 
 script:
   # Building is handled in gulp test.
+  - gulp test
